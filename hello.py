@@ -1,2 +1,3 @@
-word = "Hell0"
+word = "Hello"
+word = word + " Git!"
 print(word)
